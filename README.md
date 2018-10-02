@@ -1,5 +1,7 @@
 # Puzzle Game Using Javascript
 
+[DEMO](https://anik123.github.io/Puzzle-Game-Using-Javascript/)
+
 This game build using Javascript.
 
 
